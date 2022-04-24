@@ -1,6 +1,6 @@
 # Realtime Synchronous Paint Board Based on Network Communication in Java
 
-For requirements, please go to the requirement.pdf
+For requirements, please go to the comp3015Project2019.pdf
 
 You need to run KidPaintServer class and KidPaint class at the same time in JRE 8 environment to execute this project.
 
